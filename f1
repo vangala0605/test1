@@ -1,0 +1,3 @@
+The "init" command stands for initialize.
+ Once you run "git init", Git will initialize a hidden directory called ".git" in the project's root directory. 
+And you'll get a confirmation that your deposit box is ready! What's next? You might want to know the status 

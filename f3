@@ -1,0 +1,2 @@
+To continue with our bank metaphor, we need to explicitly ask the bank to open a new safe deposit box to store our effects (read: code). 
+Assuming you've already created an empty directory for your project, you need to explicitly ask Git to create a safe deposit box – a repository – in that directory:
